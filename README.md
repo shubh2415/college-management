@@ -59,7 +59,7 @@ shubhaayush-college/
 
 🔗 Live Demo
  Click Here to View Project
-[(replace with your actual link if deployed on GitHub Pages / Netlify / Vercel)](https://college-management.shubhamtel.me/)
+[college-management](https://college-management.shubhamtel.me/)
 
 🙌 Contribution
 Contributions are welcome!
