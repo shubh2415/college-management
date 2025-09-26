@@ -36,7 +36,7 @@ Backend: (Not used in this version, static site only)
 Follow these steps to run the project locally:
 
 Clone the Repository
-git clone https://github.com/your-username/shubhaayush-college.git
+git clone https://github.com/shubh2415/shubhaayush-college.git
 
 Or simply download ZIP and extract it.
 Open Project Folder
